@@ -1,2 +1,8 @@
 # Introduction-to-Data-Science
-GitHub repo for course project
+## Team members:
+- Nguyễn Quang Trường (19127608)
+- 
+- 
+
+## Topic:
+- For later
