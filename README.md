@@ -1,8 +1,10 @@
 # Introduction-to-Data-Science
 ## Team members:
-- Nguyễn Quang Trường (19127608)
-- 
-- 
+| Student ID    | Fullname      |
+| :-------------: |:-------------:|
+| 19127608      | Nguyễn Quang Trường |
+| 20127655      | Trần Quốc Trung      |
+|  |       |
 
 ## Topic:
 - For later
