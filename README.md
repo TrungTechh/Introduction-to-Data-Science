@@ -7,4 +7,8 @@
 | 20127374 | Nguyễn Đức Trường      |
 
 ## Topic:
-- For later
+### Movie suggestion
+- Crawl movies data from IMDB,...: Title, Year, Rate, cast, Director,...
+- Allow user to create profile with survey to find out their favourite genres of movie or cast, director,...
+- Tracking user behavior (Movies watched) for better suggestion
+- Give suggestions to user
