@@ -8,9 +8,7 @@
 
 ## Topic: Movie recommendation
 - Method: Crawling
-- Source: [IMDB](https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating&fbclid=IwAR348pXXtnVMB1WbpT7KyZEaNKcvCNV3Hzr-wW5uFxRIwxSIk8UOTkMChuM)
+- Source: [TMDb](https://www.themoviedb.org/documentation/api)
 - Problem:
-  - Crawl movies data from IMDb
-  - Allow user to create profile with survey to find out their favourite genres of movie or cast, director,...
-  - Tracking user behavior (Movies watched) for better recommendation
-  - Give recommendations base on user profile
+  - Fetch movies data from TMDb API
+  - Give recommendations base on input movie name
