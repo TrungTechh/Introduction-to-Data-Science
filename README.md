@@ -11,4 +11,5 @@
 - Source: [TMDb](https://www.themoviedb.org/documentation/api)
 - Problem:
   - Fetch movies data from TMDb API
+  - Analysis movies attributes to inspect data correlations
   - Give recommendations base on input movie name
