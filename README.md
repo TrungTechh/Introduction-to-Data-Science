@@ -7,7 +7,7 @@
 | 20127374 | Nguyễn Đức Trường      |
 
 ## Topic: Movie recommendation
-- Method: Crawling
+- Method: Get data from API and use Consine Similariry to give recommendation
 - Source: [TMDb](https://www.themoviedb.org/documentation/api)
 - Problem:
   - Fetch movies data from TMDb API
